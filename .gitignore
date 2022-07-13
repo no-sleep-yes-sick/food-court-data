@@ -1,0 +1,16 @@
+# Python specifics
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+.pytest_cache/
+.DS_Store
+
+# Project specifics
+df_sample-cleansed.csv
+df_sample-cleansed-waterfiber.csv
+
+# Misc.
+.envrc
+
+# git config
+.gitmessage.txt
